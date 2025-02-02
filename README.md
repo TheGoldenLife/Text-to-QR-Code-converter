@@ -1,5 +1,7 @@
 # Welcome to GitHub Desktop!
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+This is a simple text to Qr Code converter
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+Once you run it, a small popup will take any text and your QR-Code will be displayed, which can be scanned with your phone's camera. :)
+
+Small project by Ebrahim 
